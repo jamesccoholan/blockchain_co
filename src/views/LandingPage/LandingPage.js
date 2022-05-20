@@ -48,51 +48,49 @@ export default function LandingPage(props) {
       <Parallax
         filter
         image={
-          "https://ik.imagekit.io/mbhxghyf1m2/5_F-LJu_396.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645127717346"
+          "https://ik.imagekit.io/mbhxghyf1m2/1920-1080053_u3T0LGZnp.JPG?ik-sdk-version=javascript-1.4.3&updatedAt=1653004649012"
         }
-        alt="James Coholan"
+        alt="SYB"
       >
         <Fade duration={2000} bottom cascade>
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
-                <h1 className={classes.title}>James Coholan</h1>
-                <h2 className={classes.subtitle}>Blockchain Technologist</h2>
-                <h4>
-                  Project Manager, Growth Driver, Developer, Producer, Inovator
-                </h4>
+                <h1 className={classes.title}>SYB</h1>
+                <h2 className={classes.subtitle}>Creative Brand</h2>
+                <h4>Music, NFTs, Media</h4>
 
                 <br />
                 <Button
                   color="twitter"
                   size="lg"
-                  href="https://www.linkedin.com/in/james-coholan-262b7592/"
+                  href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEpzV3lOYVRiMWlsaEFpSzNBQkFBckc3MFVpQXxBQ3Jtc0tsTzdSdXNDU1VyNjlDYXRwLUQ0Y1RzbEZndFhFd1A4cDFnSEh6b0FYam4tVVBfVmdod1R5dk92WVdyemRQczhoT1FrNXlxZDB3V2FGOE1KRnhFOXY2Q3JSVXBkX0UyS1podmlKZGZ1S3hxRnVxVExxNA&q=https%3A%2F%2Fopen.spotify.com%2Fartist%2F7lQsPgl572B3J9tARp1N66&v=KrXQL-BSVnU"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={classes.titleButton}
                 >
                   {/* <i className="fas fa-play" /> */}
-                  LinkedIn
+                  Spotify
                 </Button>
                 <Button
                   color="twitter"
                   size="lg"
-                  href="http://voyagela.com/interview/meet-syb-creative-los-angeles/"
+                  href="https://www.instagram.com/savyungblanc/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={classes.titleButton}
                 >
-                  Article
+                  Instagram
                 </Button>
                 <Button
                   color="twitter"
                   size="lg"
-                  href="https://github.com/jamesccoholan"
+                  href="https://www.youtube.com/channel/UC0bjvhsexag1eW0GWqjm2DA/videos"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={classes.titleButton}
                 >
-                  Github
+                  YouTube
                 </Button>
                 <h1></h1>
                 {/* <h4>CodeWars Rank</h4>

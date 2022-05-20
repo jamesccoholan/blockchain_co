@@ -241,11 +241,8 @@ export default function TeamSection() {
   );
   return (
     <div className={classes.section}>
-      <h2 className={classes.title}>Projects</h2>
-      <h4 className={classes.smallTitle}>
-        Blockchain and next-gen media developer. Focused on innovation in Web3.
-        Certified AWS Solutions Architect.
-      </h4>
+      <h2 className={classes.title}>Videos</h2>
+      <h4 className={classes.smallTitle}>Some tunes from SYB</h4>
       <div>
         <GridContainer>
           {team.map(function (member) {
