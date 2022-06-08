@@ -115,51 +115,12 @@ const team = [
       </a>
     ),
   },
-  // {
-  //   name: "Web3 Music Player",
-  //   job: "Solidity, Hardhat, Javascript, Ethers.js, IPFS",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images4_sJ2orbs9_Cu.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153723936",
-  //   link: (
-  //     <a
-  //       href="https://github.com/jamesccoholan/web_3_music_player"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Github
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://the-great-jamesccoholan-site.netlify.app/"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Live App
-  //     </a>
-  //   ),
-  //   // link3: (
-  //   //   <a
-  //   //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //   //     rel="noreferrer"
-  //   //     target="_blank"
-  //   //   >
-  //   //     Trailer
-  //   //   </a>
-  //   // ),
-  // },
+
   {
     name: "Diamond Bull Brigade",
     job: "Photo-Real, Animated NFTs",
     img: "https://ik.imagekit.io/mbhxghyf1m2/RBRIGHT_CUFZWa5HN.png?ik-sdk-version=javascript-1.4.3&updatedAt=1647893971111",
-    // link: (
-    //   <a
-    //     href="https://www.discoastronautclub.com/"
-    //     rel="noreferrer"
-    //     target="_blank"
-    //   >
-    //     Website
-    //   </a>
-    // ),
+
     link2: (
       <a
         href="https://testnets.opensea.io/collection/dbb"
@@ -179,55 +140,6 @@ const team = [
       </a>
     ),
   },
-  // {
-  //   name: "Siren",
-  //   job: "AI Text-To Speech at Scale",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-04-04_at_11.04.18_AM_XNz3pUWIq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649095482538",
-  //   link: (
-  //     <a href="https://youtu.be/EX0dzVga-3Q" rel="noreferrer" target="_blank">
-  //       Backend Demo
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://www.youtube.com/channel/UCzETGOEaqbY-SQvbUUZw2Yw"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       YouTube Channel
-  //     </a>
-  //   ),
-
-  // },
-
-  // {
-  //   name: "Blockchain Development Project",
-  //   job: "Music and Photo Site",
-  //   img: "https://ik.imagekit.io/mbhxghyf1m2/Images5_krfIkyTzE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1645153724381",
-  //   link: (
-  //     <a href="https://jamescoholan.me/" rel="noreferrer" target="_blank">
-  //       Website
-  //     </a>
-  //   ),
-  //   link2: (
-  //     <a
-  //       href="https://github.com/jamesccoholan/starter_kit_2"
-  //       rel="noreferrer"
-  //       target="_blank"
-  //     >
-  //       Github
-  //     </a>
-  //   ),
-  //   // link3: (
-  //   //   <a
-  //   //     href="https://www.youtube.com/watch?v=ezRnFj08KlI"
-  //   //     rel="noreferrer"
-  //   //     target="_blank"
-  //   //   >
-  //   //     Trailer
-  //   //   </a>
-  //   // ),
-  // },
 ];
 
 const useStyles = makeStyles(styles);

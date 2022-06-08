@@ -56,9 +56,11 @@ export default function LandingPage(props) {
           <div className={classes.container}>
             <GridContainer>
               <GridItem xs={12} sm={12} md={6}>
-                <h1 className={classes.title}>SYB</h1>
-                <h2 className={classes.subtitle}>Creative Brand</h2>
-                <h4>Music, NFTs, Media</h4>
+                <h1 className={classes.title}>SYB Creative</h1>
+                <h2 className={classes.subtitle}>
+                  NFT Consulting and Production
+                </h2>
+                <h4>NFTs, Media, Music</h4>
 
                 <br />
                 <Button

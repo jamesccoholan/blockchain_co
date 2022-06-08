@@ -16,23 +16,23 @@ const useStyles = makeStyles(styles);
 
 const roadmapItems = [
   {
-    phase: "Brink",
+    phase: "NFT Production",
     img: "https://ik.imagekit.io/mbhxghyf1m2/6061e9b66445fd43aec03647_Brink_spot-illo02__1__kPyi9XVjm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652717447731",
     items: [
       {
-        title: "Building Critical Infrastructure for Decentralized Finance",
+        title: "End to end 3D art  production ",
         description:
           "Automate Your Transactions. Conditional orders and automated loss protection for Ethereum.",
       },
       {
-        title: "Business Partner Integrations",
+        title: "Metaverse Ready",
         description:
           "Partnerships and business development, integrating core product.",
       },
     ],
   },
   {
-    phase: "Minotaur",
+    phase: "NFT Consulting",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.38.47_AM_6vYqYKMcKm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719148180",
     items: [
       {
