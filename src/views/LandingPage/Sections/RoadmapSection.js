@@ -32,7 +32,7 @@ const roadmapItems = [
     ],
   },
   {
-    phase: "NFT Consulting",
+    phase: "NFT Production",
     img: "https://ik.imagekit.io/mbhxghyf1m2/Screen_Shot_2022-05-16_at_9.38.47_AM_6vYqYKMcKm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1652719148180",
     items: [
       {
