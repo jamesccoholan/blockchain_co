@@ -1,20 +1,20 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-sybsite-dev-163306-authRole",
-      "UnauthRoleArn": "arn:aws:iam::757887447730:role/amplify-sybsite-dev-163306-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::757887447730:role/amplify-sybsite-dev-163306-authRole",
+      "AuthRoleName": "amplify-blockchaincomapny-dev-100509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::757887447730:role/amplify-blockchaincomapny-dev-100509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::757887447730:role/amplify-blockchaincomapny-dev-100509-authRole",
       "Region": "us-west-2",
-      "DeploymentBucketName": "amplify-sybsite-dev-163306-deployment",
-      "UnauthRoleName": "amplify-sybsite-dev-163306-unauthRole",
-      "StackName": "amplify-sybsite-dev-163306",
-      "StackId": "arn:aws:cloudformation:us-west-2:757887447730:stack/amplify-sybsite-dev-163306/097add70-d7cc-11ec-ad44-02cbdeb5b815",
-      "AmplifyAppId": "d2r7riy1mgohgl"
+      "DeploymentBucketName": "amplify-blockchaincomapny-dev-100509-deployment",
+      "UnauthRoleName": "amplify-blockchaincomapny-dev-100509-unauthRole",
+      "StackName": "amplify-blockchaincomapny-dev-100509",
+      "StackId": "arn:aws:cloudformation:us-west-2:757887447730:stack/amplify-blockchaincomapny-dev-100509/7d00fad0-e8df-11ec-80cf-020c4b3d02f1",
+      "AmplifyAppId": "d1nt8jvd8msc8l"
     },
     "categories": {
       "hosting": {
         "amplifyhosting": {
-          "appId": "d2r7riy1mgohgl",
+          "appId": "d1nt8jvd8msc8l",
           "type": "manual"
         }
       }
